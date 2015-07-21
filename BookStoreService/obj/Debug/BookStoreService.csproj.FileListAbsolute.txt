@@ -1,0 +1,7 @@
+C:\Dev\BookStoreService\BookStoreService\bin\BookStoreService.dll
+C:\Dev\BookStoreService\BookStoreService\bin\BookStoreService.pdb
+C:\Dev\BookStoreService\BookStoreService\bin\EntityFramework.dll
+C:\Dev\BookStoreService\BookStoreService\bin\EntityFramework.xml
+C:\Dev\BookStoreService\BookStoreService\obj\Debug\BookStoreService.csprojResolveAssemblyReference.cache
+C:\Dev\BookStoreService\BookStoreService\obj\Debug\BookStoreService.dll
+C:\Dev\BookStoreService\BookStoreService\obj\Debug\BookStoreService.pdb
